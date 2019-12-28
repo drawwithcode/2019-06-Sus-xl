@@ -50,8 +50,3 @@ function draw() {
   ellipse(mouseX, mouseY);
   ellipse(sliderX.value(), sliderY.value(), sliderSz.value(), sliderSz.value());
 }
-
-
-// function mousePressed() {
-//   clear();
-// }
